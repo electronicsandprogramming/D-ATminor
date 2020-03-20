@@ -1,7 +1,4 @@
 ---
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-
 layout: default
 ---
 ```
@@ -29,7 +26,7 @@ IR receiver: https://create.arduino.cc/projecthub/electropeak/use-an-ir-remote-t
 4 digit 7-segment display: https://create.arduino.cc/projecthub/SAnwandter1/programming-4-digit-7-segment-led-display-2d33f8
 
   
-    
+
 INPUTS  
 
 Button: https://www.arduino.cc/en/tutorial/button
