@@ -1,14 +1,15 @@
 ---
-title: LCD-display
+title: Servo motor
 category: output
-level: advanced
+level: medium
 ---
 
-![alt text](assets/img/lcd_display.jpg "lcd display 1602")
+![alt text](assets/img/servo-motor.jpg "servo motor")
 
-The LCD display in your kit is a so called 1602-type. That means that is has two rows of 16 characters. It uses a specific protocol for displaying text which is built into an arduino library.
+Servo motors are great devices that can turn to a specified position.
+Usually, they have a servo arm that can turn 180 degrees. Using the Arduino, we can tell a servo to go to a specified position and it will go there. As simple as that!
 
-**Tutorial**: [https://www.arduino.cc/en/Tutorial/HelloWorld](https://www.arduino.cc/en/Tutorial/HelloWorld){:target="_blank"}
+**Tutorial**: [https://www.arduino.cc/en/Tutorial/Sweep](https://www.arduino.cc/en/Tutorial/Sweep){:target="_blank"}
 
 
-**Assignment**: get the display to show the value(s) of a sensor.
+**Assignment**: Control the position of the servo with data from a sensor.
