@@ -1,7 +1,19 @@
-theme: jekyll-theme-slate
+# theme: jekyll-theme-slate
+theme: jekyll-theme-tactile
 
 defaults:
   - scope:
       path: ""
     values:
       layout: "default"
+  - scope:
+      path: ""
+      type: "tutorials"
+    values:
+      layout: "default"
+
+
+collections:
+ tutorials:
+  sort_by: category
+  output: true
