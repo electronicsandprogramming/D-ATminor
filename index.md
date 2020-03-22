@@ -1,16 +1,6 @@
 ---
+layout: home
 ---
-```
-void setup() { what?
-  pinMode(ATTACK_PIN, INPUT);
-  pinMode(DECAY_PIN, INPUT);
-  pinMode(SUSTAIN_PIN, INPUT);
-  pinMode(RELEASE_PIN, INPUT);
-  pinMode(GATE_PIN, INPUT);
-  pinMode(TRIGGER_PIN, INPUT);
-}
-```
-{: .language-c}
 
 OUTPUTS  
 
@@ -24,7 +14,7 @@ IR receiver: https://create.arduino.cc/projecthub/electropeak/use-an-ir-remote-t
 7-segment display: https://www.instructables.com/id/7-Segment-Display-On-Arduino/
 4 digit 7-segment display: https://create.arduino.cc/projecthub/SAnwandter1/programming-4-digit-7-segment-led-display-2d33f8
 
-  
+
 
 INPUTS  
 
