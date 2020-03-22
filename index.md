@@ -1,5 +1,4 @@
 ---
-layout: default
 ---
 ```
 void setup() { what?

@@ -1,4 +1,6 @@
-theme: jekyll-theme-tactile
+theme: minima
+plugins:
+  - jekyll-feed
 
 defaults:
   - scope:
