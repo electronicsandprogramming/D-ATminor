@@ -5,17 +5,17 @@ layout: default
 
 {{ content }}
 
-<h2>Output objects</h2>
+<h2>Input objects</h2>
 <ul>
-  {% assign outputs = site.tutorials | where: "category", "output" %}
+  {% assign outputs = site.tutorials | where: "category", "input" %}
 {% for item in outputs %}
   <li>{{ item.title }}: <a href="{{ site.url }}/{{ item.url }}" {% if page.url == item.link %}class="current"{% endif %}>{{ item.title }}</a></li>
 {% endfor %}
 </ul>
 
-<h2>Input objects</h2>
+<h2>Output objects</h2>
 <ul>
-  {% assign outputs = site.tutorials | where: "category", "input" %}
+  {% assign outputs = site.tutorials | where: "category", "output" %}
 {% for item in outputs %}
   <li>{{ item.title }}: <a href="{{ site.url }}/{{ item.url }}" {% if page.url == item.link %}class="current"{% endif %}>{{ item.title }}</a></li>
 {% endfor %}
