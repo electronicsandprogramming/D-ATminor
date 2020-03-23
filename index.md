@@ -1,5 +1,6 @@
 ---
 layout: home
+title: Start
 ---
 
 Here you'll find guides to using all the parts in your Arduino starter kit. I don't have an actual kit so I'm using a picture of the contents as a guide.  
