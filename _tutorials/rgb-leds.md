@@ -1,7 +1,7 @@
 ---
 title: RGB Led
 category: output
-level: medium
+level: intermediate
 tutorial: https://learn.adafruit.com/adafruit-arduino-lesson-3-rgb-leds/overview
 image: rgb_led.jpg
 assignment: Control each color with a potentiometer or sensor.

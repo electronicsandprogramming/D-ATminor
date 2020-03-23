@@ -1,7 +1,7 @@
 ---
 title: Servo motor
 category: output
-level: medium
+level: intermediate
 image: servo-motor.jpg
 tutorial: https://www.arduino.cc/en/Tutorial/Sweep
 assignment: Control the position of the servo with data from a sensor.

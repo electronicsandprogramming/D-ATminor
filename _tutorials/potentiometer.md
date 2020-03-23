@@ -1,7 +1,7 @@
 ---
 title: Potentiometer
 category: input
-level: easy
+level: simple
 tutorial: https://www.arduino.cc/en/Tutorial/Potentiometer
 image: potentiometer.jpg
 assignment: Connect multiple potentiometers and control sounds, leds or motors with them or display the value on a lcd display.

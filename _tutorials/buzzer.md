@@ -1,7 +1,7 @@
 ---
 title: Buzzer
 category: output
-level: easy
+level: simple
 tutorial: https://www.arduino.cc/en/Tutorial/ToneMelody
 image: buzzer.jpg
 assignment: Play tones based on sensor input.

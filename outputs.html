@@ -4,7 +4,7 @@ title: Outputs
 ---
 <h2>Output objects</h2>
 <ul>
-  {% assign outputs = site.tutorials | where: "category", "output" %}
+  {% assign outputs = site.tutorials | where: "category", "output" | sort:"level" | reverse %}
 {% for item in outputs %}
   <li>{{ item.title }}: <a href="{{ site.url }}/{{ item.url }}" {% if page.url == item.link %}class="current"{% endif %}>{{ item.title }}</a></li>
 {% endfor %}

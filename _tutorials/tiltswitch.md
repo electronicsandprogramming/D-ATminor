@@ -2,7 +2,7 @@
 title: Tilt sensor
 layout: tutorial
 category: input
-level: easy
+level: simple
 tutorial: https://learn.adafruit.com/tilt-sensor/using-a-tilt-sensor
 image: tiltswitch.png
 assignment: Use it as a regular button and start/stop a motor or lights.
